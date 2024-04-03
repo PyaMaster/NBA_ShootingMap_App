@@ -71,7 +71,6 @@ with col1:
 
         col1_grid.markdown(f'<span style="font-size:larger"><span style="color:orange; font-weight:bold">{selected_player}</span> NBA <span style="font-weight:bold">{selected_season}</span> season statistics</span>', unsafe_allow_html=True)
         career_stats = NBA.get_seasons_stats(player_id)
-        print(career_stats)
         idx = career_stats.index[career_stats['SEASON_ID'] == selected_season].tolist()
         print(idx)
 
