@@ -73,3 +73,4 @@ This project leverages the [NBA API](https://github.com/swar/nba_api) for fetchi
 
 This project is open-source and available for modification and redistribution under an appropriate license.
 
+[Demo_Video.mp4](assets%2FDemo_Video.mp4)
