@@ -1,5 +1,5 @@
 # NBA Analytics Web App
-
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 ### Overview
 
 This project is a Streamlit-based web application designed to provide an interactive and visually appealing way for users to explore NBA player statistics and shooting performance across different seasons. The application fetches player data, generates shooting maps, and presents statistical insights.
@@ -71,6 +71,7 @@ This project leverages the [NBA API](https://github.com/swar/nba_api) for fetchi
 
 ### License 📜
 
-This project is open-source and available for modification and redistribution under an appropriate license.
+This project is licensed under the MIT License. See the [LICENSE](/LICENSE.txt) file for details.
 
+### Demo
 https://github.com/user-attachments/assets/20802c7d-c301-408a-b746-8a71c767d258
